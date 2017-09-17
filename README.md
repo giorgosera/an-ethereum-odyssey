@@ -1,3 +1,4 @@
-# My Awesome Book
+# An Ethereum Odyssey
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+These are my personal notes on learning how to develop Ethereum apps.
+
